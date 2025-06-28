@@ -2,6 +2,9 @@
 
 > **Log-driven sandbox automation + feature engineering + machine-learning models**  
 > for dynamic malware behaviour detection on Windows.
+>
+> ## 📜 License
+Distributed under the MIT License. See `LICENSE` for details.
 
 ## ✨ Key Features
 | Module | What it does | Folder |
