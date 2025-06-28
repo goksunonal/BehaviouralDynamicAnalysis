@@ -3,12 +3,6 @@
 > **Log-driven sandbox automation + feature engineering + machine-learning models**  
 > for dynamic malware behaviour detection on Windows.
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
-[![Build](https://img.shields.io/badge/Status-Alpha-lightgrey)](#)
-
----
-
 ## ✨ Key Features
 | Module | What it does | Folder |
 |--------|--------------|--------|
